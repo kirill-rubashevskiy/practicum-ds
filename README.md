@@ -2,7 +2,7 @@
 
 В репозитарии собраны учебные проекты [курса](https://practicum.yandex.ru/data-scientist/) «Специалист по Data Science» Яндекс Практикума, который я [закончил](https://github.com/kirill-rubashevskiy/practicum-ds/blob/main/diploma_rus.pdf) в 2023 году.
 
-## Стек
+Стек:
 
 - EDA: `Matplotlib`, `pandas`, `Phi_K`, `seaborn`,  `statsmodels`
 - Подготовка данных и обучение моделей: `CatBoost`,  `LightGBM`, `Optuna`, `scikit-learn`, `StatsForecast`, `XGBoost`, `PyTorch`, `Transformers`
